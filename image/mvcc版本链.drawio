@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T16:23:58.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="4aHVNMd6c_HzpxrcvQNy" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T16:24:23.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="6mCTe35fssmLaYs6LmqQ" version="14.0.1" type="github">
   <diagram id="lSn9QHW36Qh600Oz0gpU" name="Page-1">
     <mxGraphModel dx="946" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry x="740" y="182.5" width="20" height="217.5" as="geometry" />
         </mxCell>
         <mxCell id="kxOCpHjJG9Tw3mA2eaha-94" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;串成了一个版本链&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="283.75" width="140" height="15" as="geometry" />
+          <mxGeometry x="770" y="283.75" width="140" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
